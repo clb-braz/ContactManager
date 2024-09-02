@@ -54,8 +54,6 @@ Passo 3: Subir o Arquivo `README.md` para o GitHub*
 2. Criar e Editar o `README.md` no Próprio GitHub (Alternativa):
    - Se preferir, crie o arquivo `README.md` diretamente no GitHub usando a opção **Add file > Create new file**.
 
-Pronto!
 
-Depois de criar o arquivo `README.md` e subir para o GitHub, você terá um repositório bem organizado com todas as informações necessárias. Inclua o link do repositório no seu PDF, conforme mencionado nos passos anteriores.
 
 
