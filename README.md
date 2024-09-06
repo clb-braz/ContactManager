@@ -8,8 +8,11 @@ Este é um projeto de gerenciamento de contatos desenvolvido como parte da disci
 Estrutura do Código
 
 Contact.java: Representa um contato individual com nome, telefone e email.
+
 Node.java: Implementa um nó para a lista encadeada, armazenando um contato.
+
 ContactList.java: Gerencia a lista encadeada de contatos.
+
 ContactManager.java: Interface principal do programa que interage com o usuário.
 
 Contribuições
